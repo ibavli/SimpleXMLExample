@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<students>
+  <student>
+    <name>İbrahim</name>
+    <surname>Bavlı</surname>
+    <age>25</age>
+  </student>
+  <student>
+    <name>Ali</name>
+    <surname>Veli</surname>
+    <age>15</age>
+  </student>
+  <student>
+    <name>Hasan</name>
+    <surname>Hüseyin</surname>
+    <age>12</age>
+  </student>
+</students>
